@@ -15,7 +15,7 @@
             <th>first name</th>
             <th>last name</th>
            
-            <th>age</th>
+            <th>Age</th>
             <th>addresss</th>
         </tr>
    
